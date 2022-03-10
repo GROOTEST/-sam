@@ -1,0 +1,2 @@
+# -sam
+Rule of everyone 
